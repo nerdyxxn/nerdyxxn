@@ -1,24 +1,29 @@
-<div align="center">
-<!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
-</div>  
-  
+<br/>
+<br/>
 
-### <div align="center">Hi there! I'm Yoonsung Seol, front-end developer 💻</div>  
-<br/>  
+## About Me
 
-**🌱 I’m currently learning React and JavaScript**  
-  
+**일상에 함께하는 이로운 기술에 가치를 두는 프론트엔드 개발자, 설윤성입니다.**
 
-❓ If you have any questions, feel free to contact me  
-  
+클린 코드와 협업에 관심이 많고, 유지 보수가 편한 코드를 작성하기 위해 항상 고민합니다.
 
-🚀 Until the day when you become the brightest developer in the universe  
-  
+기술 뿐만 아니라 함께하고 싶은 사람이 되기 위해 끊임없이 노력합니다.
 
-<br/>  
+<br/>
+<br/>
 
+**💻 Hi there! I'm Yoonsung Seol, front-end developer**
 
-## Tech Stack  
+🌱 I’m currently learning React and JavaScript
+
+💬 If you have any questions, feel free to contact me<br/>
+
+🚀 Until the day when you become the brightest developer in the universe
+
+<br/>
+
+## Tech Stack
+
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -31,11 +36,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a> &nbsp 
 </p>  
-  
-
-<br/>  
 
 
-## Github Stats  
+<br/>
+
+## Github Stats
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nerdyxxn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
