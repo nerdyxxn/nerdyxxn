@@ -1,19 +1,20 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!--<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />-->
 </div>  
   
 
 ### <div align="center">Hi there! I'm Yoonsung Seol, front-end developer 💻</div>  
+<br/>  
+
+<div align="center">
+🌱 I’m currently learning **React** and **JavaScript**  
   
 
-- **🌱 I’m currently learning React and JavaScript**  
+❓ If you have any questions, feel free to contact me  
   
 
-- ❓ If you have any questions, feel free to contact me  
-  
-
-- 🚀 Until the day when you become the brightest developer in the universe  
-  
+🚀 Until the day when you become the brightest developer in the universe  
+</div>    
 
 <br/>  
 
@@ -39,6 +40,3 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nerdyxxn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
