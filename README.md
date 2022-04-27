@@ -6,15 +6,14 @@
 ### <div align="center">Hi there! I'm Yoonsung Seol, front-end developer 💻</div>  
 <br/>  
 
-<div align="center">
-🌱 I’m currently learning React and JavaScript  
+**🌱 I’m currently learning React and JavaScript**  
   
 
 ❓ If you have any questions, feel free to contact me  
   
 
 🚀 Until the day when you become the brightest developer in the universe  
-</div>    
+  
 
 <br/>  
 
