@@ -7,7 +7,7 @@
 <br/>  
 
 <div align="center">
-🌱 I’m currently learning **React** and **JavaScript**  
+🌱 I’m currently learning React and JavaScript  
   
 
 ❓ If you have any questions, feel free to contact me  
