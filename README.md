@@ -40,6 +40,6 @@
 ## Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nerdyxxn&show_icons=true&theme=gotham "/>
+<img src="https://github-readme-stats.vercel.app/api?username=nerdyxxn&show_icons=true&theme=gotham"/>
 </div>
 <br />
